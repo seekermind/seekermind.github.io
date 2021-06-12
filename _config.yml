@@ -1,26 +1,26 @@
-site: Gesko
-title: Gesko
+site: seeker Blog
+title: seeker Blog
 description: >-
   just a minimalist, personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
-timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+timezone: Dhaka
+repo: https://github.com/seekermind/seekermind.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: Anonymous
   bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
+  username: # general username
+  github: seekermind # github username
+  twitter: # twitter username
+  email: seekerApe@protonmail.com # email adress
 
 # URL settings
-url: "https://p0wex.github.io/" #
-baseurl: "/Gesko" # leave blank if not wishd
-permalink: "https://p0wex.github.io/Gesko"
-permalink: pretty 
+url: "https://seekermind.github.io/" #
+baseurl: "" # leave blank if not wishd
+#permalink: "https://seekermind.github.io/Gesko"
+#permalink: pretty 
 
 
 markdown: kramdown
